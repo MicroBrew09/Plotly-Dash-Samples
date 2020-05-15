@@ -1,2 +1,2 @@
-# Blog-733
+# Sample Project/Templates for Plotly Dash
 
